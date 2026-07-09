@@ -9,5 +9,5 @@ user_body = {
 }
 
 Kit_body = {
-    "name": "Grupo 70"
+    "name": "cohort 70"
 }
